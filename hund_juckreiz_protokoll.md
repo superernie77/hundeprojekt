@@ -126,3 +126,38 @@ Strichliste in Notizen-App. Eine Episode = anfangen → aufhören. Pause >30 Sek
 |       |                              |            |              |         |         |
 
 **Notizen-Beispiele:** Bett gewaschen, neuer Snack, langer Spaziergang Wald, Lachsöl gestartet, etc.
+
+---
+
+## Anhang — Algenöl-Klärung
+
+Hund bekommt seit einiger Zeit Algenöl. Damit ist Test C (Hautbarriere) teilweise schon gelaufen — bleiben **Hausstaubmilben** und **Futter** als Hauptverdächtige.
+
+### Offene Fragen
+
+1. **Wie lange schon?**
+   - Unter 4 Wochen = noch nicht aussagekräftig
+   - Über 6 Wochen = solide Aussage
+   - Antwort:
+
+2. **Wieviel pro Tag?**
+   - Bei 14 kg sollten es ca. **0,5–1 TL/Tag** sein
+   - Manche Hersteller dosieren knapp — bei nur ein paar Tropfen kaum Effekt
+   - Antwort:
+
+3. **Welches Produkt / welche Marke?**
+   - Algenöle unterscheiden sich stark im EPA/DHA-Gehalt
+   - Antwort:
+
+4. **Hat sich seit Beginn der Algenöl-Gabe etwas verändert?**
+   - Besser / gleich / schlechter?
+   - War das Kratzen vor dem Algenöl genauso?
+   - Antwort:
+
+### Anpassungen am Protokoll
+
+- **Test C streichen** als eigener Versuch — Algenöl weiterlaufen lassen, aber Dosis prüfen
+- **Test A (Bett/Hausstaubmilben)** und **Test B (Snack-Eliminierung)** rücken nach vorne als Hauptkandidaten
+- **Optional als Ersatz für Test C:** einmalig mildes, rückfettendes Hundeshampoo mit Haferflocken (z. B. Douxo Calm, Episoothe) — wirkt direkt auf die Hautoberfläche und entfernt potenzielle Allergene aus dem Fell. Einmalig, dann 2 Wochen abwarten.
+
+**Logik:** Algenöl = Entzündungsdämpfung von innen über Omega-3. Shampoo = mechanisches Entfernen von Pollen/Milbenkot/Allergenen vom Fell. Zwei verschiedene Hebel.
